@@ -54,7 +54,5 @@ in the financial industry and technology entrepreneurship.
 
 ## 🔗 Connect
 
-- LinkedIn: [add link]
-- Google Scholar: [add link]
-- ORCID: [add link]
-- Instagram: [add link]
+- LinkedIn: https://br.linkedin.com/in/bjardim
+- Instagram: https://www.instagram.com/bruno.jardim_pod/
